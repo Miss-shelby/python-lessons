@@ -9,8 +9,6 @@ This repository is a well-organized collection of Python lessons ranging from be
 - Object-Oriented Programming
 - Modules and Packages
 - File Handling
-- Error Handling
-- Advanced Concepts (Decorators, Generators, etc.)
 
 ## 🔖 Notes
 - Each lesson includes simple explanations and example code.
